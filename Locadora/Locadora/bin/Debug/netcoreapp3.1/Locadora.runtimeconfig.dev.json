@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maicon Fiuza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maicon Fiuza\\.nuget\\packages"
+    ]
+  }
+}
